@@ -1,0 +1,13 @@
+matplotlib==3.9.0
+mmcv==2.2.0
+mmengine==0.10.4
+mmsegmentation.egg==info
+numpy==1.26.4
+opencv_python==4.9.0.80
+opencv_python_headless==4.9.0.80
+pandas==2.2.2
+Pillow==10.3.0
+scikit_learn==1.4.2
+torch==2.3.0
+torchvision==0.18.0
+tqdm==4.65.2
